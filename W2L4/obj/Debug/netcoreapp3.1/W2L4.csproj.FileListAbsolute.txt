@@ -1,0 +1,13 @@
+F:\Bartek\ASPdotNET\W2L4\W2L4\bin\Debug\netcoreapp3.1\W2L4.exe
+F:\Bartek\ASPdotNET\W2L4\W2L4\bin\Debug\netcoreapp3.1\W2L4.deps.json
+F:\Bartek\ASPdotNET\W2L4\W2L4\bin\Debug\netcoreapp3.1\W2L4.runtimeconfig.json
+F:\Bartek\ASPdotNET\W2L4\W2L4\bin\Debug\netcoreapp3.1\W2L4.runtimeconfig.dev.json
+F:\Bartek\ASPdotNET\W2L4\W2L4\bin\Debug\netcoreapp3.1\W2L4.dll
+F:\Bartek\ASPdotNET\W2L4\W2L4\bin\Debug\netcoreapp3.1\W2L4.pdb
+F:\Bartek\ASPdotNET\W2L4\W2L4\obj\Debug\netcoreapp3.1\W2L4.csprojAssemblyReference.cache
+F:\Bartek\ASPdotNET\W2L4\W2L4\obj\Debug\netcoreapp3.1\W2L4.AssemblyInfoInputs.cache
+F:\Bartek\ASPdotNET\W2L4\W2L4\obj\Debug\netcoreapp3.1\W2L4.AssemblyInfo.cs
+F:\Bartek\ASPdotNET\W2L4\W2L4\obj\Debug\netcoreapp3.1\W2L4.csproj.CoreCompileInputs.cache
+F:\Bartek\ASPdotNET\W2L4\W2L4\obj\Debug\netcoreapp3.1\W2L4.dll
+F:\Bartek\ASPdotNET\W2L4\W2L4\obj\Debug\netcoreapp3.1\W2L4.pdb
+F:\Bartek\ASPdotNET\W2L4\W2L4\obj\Debug\netcoreapp3.1\W2L4.genruntimeconfig.cache
